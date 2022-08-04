@@ -20,5 +20,5 @@ jobs:
       run: cargo build --verbose
     - name: Build
       run: cargo build
-    - name: Build
+    - name: Execute
       run: ./target/debug/athlete
