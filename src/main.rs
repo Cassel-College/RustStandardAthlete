@@ -1,6 +1,3 @@
-mod version;
-mod log;
-
 use version::get_version;
 use log::log::log4rs;
 
